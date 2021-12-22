@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adrian, 20 yr old self-taught programmer, currently enrolled in University of Technology in Warsaw on Computer Science course.
+- 👋 Hi, I’m Adrian, 20 yrs old self-taught programmer, currently enrolled in University of Technology in Warsaw on Computer Science course.
 - 👀 I’m mainly interested in back-end - mostly doing some stuff in Java (spring-boot), however I've got some basics of front-end (html, css, js, react).
 - 🌱 I’m currently learning Java (spring-boot), C (for university projects etc.). Looking forward to start learning Kotlin in a near future.
 - 📫 If you want to reach me, feel free to send me an e-mail: adrian.rudz0@gmail.com
