@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A student and Junior Java Developer</h3>
+<h3 align="center">A student of the Warsaw University of Technology and Junior Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriaaan7&label=Profile%20views&color=0e75b6&style=flat" alt="adriaaan7" /> </p>
 
