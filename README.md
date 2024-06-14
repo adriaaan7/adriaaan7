@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A student of the Warsaw University of Technology and Junior Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriaaan7&label=Profile%20views&color=0e75b6&style=flat" alt="adriaaan7" /> </p>
 
 - 🌱 I’m currently learning **Spring, Angular, AI/ML**
-
+- 📄 Junior Java Developer since 01.07.2023
+- 📝 A BS student of the Warsaw University of Technology - 7 semester
 - 📫 How to reach me **adrian.rudz0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
