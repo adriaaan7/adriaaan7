@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring, Angular, AI/ML**
 - 📄 Junior Java Developer since 01.07.2023
-- 📝 A BS student of the Warsaw University of Technology - 7th semester
+- 📝 A MSc student of the Warsaw University of Technology (Artificial Intelligence Methods) - 1st semester
 - 📫 How to reach me **adrian.rudz0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
