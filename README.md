@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriaaan7&label=Profile%20views&color=0e75b6&style=flat" alt="adriaaan7" /> </p>
 
 - 🌱 I’m currently learning **Spring, Angular, AI/ML**
-- 📄 Junior Java Developer since 01.07.2023
-- 📝 A MSc student of the Warsaw University of Technology (Artificial Intelligence Methods) - 1st semester
+- 📄 Software Engineer since 01.07.2023
+- 📝 A MSc student of the Warsaw University of Technology (Artificial Intelligence Methods) - refining/finishing Master's Thesis
 - 📫 How to reach me **adrian.rudz0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
